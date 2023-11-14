@@ -1,0 +1,6 @@
+[submodule "DISORF-local-end"]
+	path = DISORF-local-end
+	url = https://github.com/HanruiJerryFan/DISORF-local-end.git
+[submodule "DISORF-server-end"]
+	path = DISORF-server-end
+	url = https://github.com/HanruiJerryFan/DISORF-server-end.git
